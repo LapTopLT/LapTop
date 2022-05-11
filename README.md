@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LapTopLT
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning idk.
+- 🌱 I’m currently learning JavaWeb.
 - 💞️ I’m looking to collaborate on idk.
 - 📫 How to reach me WeChat ID:ltlt5353
 
